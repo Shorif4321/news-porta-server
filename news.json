@@ -1,0 +1,507 @@
+[
+  {
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category": "Technology",
+    "rating": {
+      "number": 4.3,
+      "badge": "Excellent"
+    },
+    "total_view": 292,
+    "title": "Cybersecurity Concerns Amidst Growing Ransomware Attacks",
+    "author": {
+      "name": "Author 2",
+      "published_date": "2025-01-12 09:57:04",
+      "img": "https://i.ibb.co.com/674JTKkG/user3.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/HfnwRGyT/4.webp",
+    "image_url": "https://i.ibb.co.com/Ps0QqS5q/5.webp",
+    "details": "This is a detailed summary of the article titled 'UN Urges Immediate Ceasefire in Sudan Conflict'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": false
+    },
+    "category": "Technology",
+    "rating": {
+      "number": 3.4,
+      "badge": "Good"
+    },
+    "total_view": 275,
+    "title": "Bitcoin - Open source P2P money for your bussiness imporovment",
+    "author": {
+      "name": "Author 1",
+      "published_date": "2024-12-28 09:57:04",
+    "img": "https://i.ibb.co.com/674JTKkG/user3.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/Ps0QqS5q/5.webp",
+    "image_url": "https://i.ibb.co.com/Ps0QqS5q/5.webp",
+    "details": "This is a detailed summary of the article titled 'Donald Trump Pledges Nearly $3 Billion To Ukraine'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": true
+    },
+    "category": "Technology",
+    "rating": {
+      "number": 3.1,
+      "badge": "Good"
+    },
+    "total_view": 603,
+    "title": "New COVID-19 Variant Detected in Europe and another countries which has to much drawbacks",
+    "author": {
+      "name": "Author 3",
+      "published_date": "2024-06-18 09:57:04",
+      "img": "https://i.ibb.co.com/674JTKkG/user3.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/39Zm7BJW/3.webp",
+    "image_url": "https://i.ibb.co.com/39Zm7BJW/3.webp",
+    "details": "This is a detailed summary of the article titled 'New COVID-19 Variant Detected in Europe'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": true
+    },
+    "category": "Technology",
+    "rating": {
+      "number": 3.0,
+      "badge": "Average"
+    },
+    "total_view": 937,
+    "title": "Apple Unveils iPhone 15 with AI Features",
+    "author": {
+      "name": "Author 4",
+      "published_date": "2024-05-22 09:57:04",
+      "img": "https://i.ibb.co.com/674JTKkG/user3.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/xqQHWQNM/6.jpg",
+    "image_url": "https://i.ibb.co.com/Ps0QqS5q/5.webp",
+    "details": "This is a detailed summary of the article titled 'Apple Unveils iPhone 15 with AI Features'."
+  },
+
+  {
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": false
+    },
+    "category": "Sports",
+    "rating": {
+      "number": 4.7,
+      "badge": "Good"
+    },
+    "total_view": 346,
+    "title": "Record-Breaking Performance in the Olympics",
+    "author": {
+      "name": "Author 9",
+      "published_date": "2024-10-12 09:57:04",
+      "img": "https://i.ibb.co.com/wZn0KhFS/25.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/C3qYKh3L/1.webp",
+    "image_url": "https://i.ibb.co.com/7J64CJ0/smart-watch-821557-340.jpg",
+    "details": "This is a detailed summary of the article titled 'Argentina Wins World Cup After Penalty Shootout'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category": "Sports",
+    "rating": {
+      "number": 4.1,
+      "badge": "Good"
+    },
+    "total_view": 721,
+    "title": "Serena Williams Announces Retirement from Tennis",
+    "author": {
+      "name": "Author 10",
+      "published_date": "2024-10-23 09:57:04",
+      "img": "https://i.ibb.co.com/wZn0KhFS/25.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/vCzPXj88/sports2.jpg",
+    "image_url": "https://i.ibb.co.com/vCzPXj88/sports2.jpg",
+    "details": "This is a detailed summary of the article titled 'Serena Williams Announces Retirement from Tennis'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": false
+    },
+    "category": "Sports",
+    "rating": {
+      "number": 3.1,
+      "badge": "Good"
+    },
+    "total_view": 795,
+    "title": "Olympics 2024: What to Expect",
+    "author": {
+      "name": "Author 11",
+      "published_date": "2024-12-29 09:57:04",
+       "img": "https://i.ibb.co.com/wZn0KhFS/25.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/8L98gX3p/sports1.jpg",
+    "image_url": "https://i.ibb.co.com/vCzPXj88/sports2.jpg",
+    "details": "This is a detailed summary of the article titled 'Olympics 2024: What to Expect'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category": "Sports",
+    "rating": {
+      "number": 3.5,
+      "badge": "Good"
+    },
+    "total_view": 340,
+    "title": "NBA Finals: Warriors Clinch Another Title",
+    "author": {
+      "name": "Author 12",
+      "published_date": "2025-02-09 09:57:04",
+      "img": "https://i.ibb.co.com/wZn0KhFS/25.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/jPmWnjD9/game.jpg",
+    "image_url": "https://i.ibb.co.com/jPmWnjD9/game.jpg",
+    "details": "This is a detailed summary of the article titled 'NBA Finals: Warriors Clinch Another Title'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category": "Business",
+    "rating": {
+      "number": 3.0,
+      "badge": "Average"
+    },
+    "total_view": 599,
+    "title": "Stock Markets Rebound After Historic Lows",
+    "author": {
+      "name": "Author 13",
+      "published_date": "2024-05-27 09:57:04",
+      "img": "https://i.ibb.co.com/RGp8nDyh/user4.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/DHHzzzqR/bussiness3.jpg",
+    "image_url": "https://i.ibb.co.com/Vc1rqDz9/bussiness2.jpg",
+    "details": "This is a detailed summary of the article titled 'Stock Markets Rebound After Historic Lows'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": true
+    },
+    "category": "Business",
+    "rating": {
+      "number": 3.6,
+      "badge": "Excellent"
+    },
+    "total_view": 154,
+    "title": "Tesla Reports Record Quarterly Profits",
+    "author": {
+      "name": "Author 14",
+      "published_date": "2024-06-29 09:57:04",
+    "img": "https://i.ibb.co.com/RGp8nDyh/user4.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/Vc1rqDz9/bussiness2.jpg",
+    "image_url": "https://i.ibb.co.com/KxKDB9xD/bussiness1.webp",
+    "details": "This is a detailed summary of the article titled 'Tesla Reports Record Quarterly Profits'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": false
+    },
+    "category": "Business",
+    "rating": {
+      "number": 3.9,
+      "badge": "Average"
+    },
+    "total_view": 195,
+    "title": "Amazon to Acquire Robotics Startup",
+    "author": {
+      "name": "Author 15",
+      "published_date": "2025-01-01 09:57:04",
+     "img": "https://i.ibb.co.com/RGp8nDyh/user4.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/KxKDB9xD/bussiness1.webp",
+    "image_url": "https://i.ibb.co.com/gbbyqDXb/bussiness0.webp",
+    "details": "This is a detailed summary of the article titled 'Amazon to Acquire Robotics Startup'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category": "Business",
+    "rating": {
+      "number": 4.3,
+      "badge": "Average"
+    },
+    "total_view": 133,
+    "title": "Crypto Crash: What Investors Need to Know",
+    "author": {
+      "name": "Author 16",
+      "published_date": "2024-07-30 09:57:04",
+      "img": "https://i.ibb.co.com/RGp8nDyh/user4.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/gbbyqDXb/bussiness0.webp",
+    "image_url": "https://i.ibb.co.com/gbbyqDXb/bussiness0.webp",
+    "details": "This is a detailed summary of the article titled 'Crypto Crash: What Investors Need to Know'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": false
+    },
+    "category": "Entertainment",
+    "rating": {
+      "number": 3.9,
+      "badge": "Good"
+    },
+    "total_view": 973,
+    "title": "Oscars 2025: Full List of Winners",
+    "author": {
+      "name": "Author 17",
+      "published_date": "2024-08-03 09:57:04",
+      "img": "https://i.ibb.co.com/B59TJrxt/user2.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/kgSqgwxW/11.webp",
+    "image_url": "https://i.ibb.co.com/jkQ4xpMG/12.jpg",
+    "details": "This is a detailed summary of the article titled 'Oscars 2025: Full List of Winners'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": true
+    },
+    "category": "Entertainment",
+    "rating": {
+      "number": 5.0,
+      "badge": "Average"
+    },
+    "total_view": 622,
+    "title": "Netflix Drops Trailer for New Sci-Fi Series",
+    "author": {
+      "name": "Author 18",
+      "published_date": "2024-09-08 09:57:04",
+       "img": "https://i.ibb.co.com/B59TJrxt/user2.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/jkQ4xpMG/12.jpg",
+    "image_url": "https://i.ibb.co.com/Zpxwzc6Y/13.jpg",
+    "details": "This is a detailed summary of the article titled 'Netflix Drops Trailer for New Sci-Fi Series'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": false
+    },
+    "category": "Entertainment",
+    "rating": {
+      "number": 4.0,
+      "badge": "Excellent"
+    },
+    "total_view": 401,
+    "title": "Taylor Swift Announces Global Tour",
+    "author": {
+      "name": "Author 19",
+      "published_date": "2025-04-27 09:57:04",
+     "img": "https://i.ibb.co.com/B59TJrxt/user2.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/Zpxwzc6Y/13.jpg",
+    "image_url": "https://i.ibb.co.com/wNKMF9Tv/14.jpg",
+    "details": "This is a detailed summary of the article titled 'Taylor Swift Announces Global Tour'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category": "Entertainment",
+    "rating": {
+      "number": 3.9,
+      "badge": "Average"
+    },
+    "total_view": 793,
+    "title": "Box Office Hits: Top 10 Movies This Year",
+    "author": {
+      "name": "Author 20",
+      "published_date": "2025-02-23 09:57:04",
+      "img": "https://i.ibb.co.com/B59TJrxt/user2.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/wNKMF9Tv/14.jpg",
+    "image_url": "https://i.ibb.co.com/Zpxwzc6Y/13.jpg",
+    "details": "This is a detailed summary of the article titled 'Box Office Hits: Top 10 Movies This Year'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category": "Life",
+    "rating": {
+      "number": 3.4,
+      "badge": "Average"
+    },
+    "total_view": 390,
+    "title": "10 Ways to Improve Your Mental Health",
+    "author": {
+      "name": "Author 21",
+      "published_date": "2025-02-02 09:57:04",
+      "img": "https://i.ibb.co.com/5hw6qdDr/user1.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/BtS6CtH/pocket-watch-2061228-340.jpg",
+    "image_url": "https://i.ibb.co.com/BtS6CtH/pocket-watch-2061228-340.jpg",
+    "details": "This is a detailed summary of the article titled '10 Ways to Improve Your Mental Health'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": false
+    },
+    "category": "Life",
+    "rating": {
+      "number": 3.5,
+      "badge": "Excellent"
+    },
+    "total_view": 342,
+    "title": "Minimalism: A New Way to Live",
+    "author": {
+      "name": "Author 22",
+      "published_date": "2024-05-23 09:57:04",
+       "img": "https://i.ibb.co.com/5hw6qdDr/user1.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/nRJmTN6/school-work-851328-960-720.jpg",
+    "image_url": "https://i.ibb.co.com/9y6CTdM/bag-1868758-960-720.jpg",
+    "details": "This is a detailed summary of the article titled 'Minimalism: A New Way to Live'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": true
+    },
+    "category": "Life",
+    "rating": {
+      "number": 3.5,
+      "badge": "Good"
+    },
+    "total_view": 136,
+    "title": "Top Travel Destinations for 2025",
+    "author": {
+      "name": "Author 23",
+      "published_date": "2024-09-07 09:57:04",
+       "img": "https://i.ibb.co.com/5hw6qdDr/user1.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/9y6CTdM/bag-1868758-960-720.jpg",
+    "image_url": "https://i.ibb.co.com/nRJmTN6/school-work-851328-960-720.jpg",
+    "details": "This is a detailed summary of the article titled 'Top Travel Destinations for 2025'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": true
+    },
+    "category": "Life",
+    "rating": {
+      "number": 4.2,
+      "badge": "Excellent"
+    },
+    "total_view": 224,
+    "title": "Healthy Eating Tips from Nutritionists",
+    "author": {
+      "name": "Author 24",
+      "published_date": "2024-11-17 09:57:04",
+       "img": "https://i.ibb.co.com/5hw6qdDr/user1.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/grsmWbn/travel.jpg",
+    "image_url": "https://i.ibb.co.com/Xprk4vB/woman-3040029-960-720.jpg",
+    "details": "This is a detailed summary of the article titled 'Healthy Eating Tips from Nutritionists'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category": "Youth",
+    "rating": {
+      "number": 4.0,
+      "badge": "Good"
+    },
+    "total_view": 581,
+    "title": "Teen Scientists Win Global Innovation Award",
+    "author": {
+      "name": "Author 25",
+      "published_date": "2024-08-13 09:57:04",
+       "img": "https://i.ibb.co.com/B59TJrxt/user2.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/BKYJvjxz/22.jpg",
+    "image_url": "https://i.ibb.co.com/hRfChpTY/23.webp",
+    "details": "This is a detailed summary of the article titled 'Teen Scientists Win Global Innovation Award'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category": "Youth",
+    "rating": {
+      "number": 3.3,
+      "badge": "Excellent"
+    },
+    "total_view": 561,
+    "title": "How Gen Z is Changing the Workforce",
+    "author": {
+      "name": "Author 26",
+      "published_date": "2025-04-27 09:57:04",
+      "img": "https://i.ibb.co.com/B59TJrxt/user2.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/hRfChpTY/23.webp",
+    "image_url": "https://i.ibb.co.com/b5gVtkmq/24.jpg",
+    "details": "This is a detailed summary of the article titled 'How Gen Z is Changing the Workforce'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category": "Youth",
+    "rating": {
+      "number": 3.4,
+      "badge": "Good"
+    },
+    "total_view": 788,
+    "title": "Youth Activism and Climate Change",
+    "author": {
+      "name": "Author 27",
+      "published_date": "2025-01-05 09:57:04",
+       "img": "https://i.ibb.co.com/B59TJrxt/user2.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/6qrtM8s/20.jpg",
+    "image_url": "https://i.ibb.co.com/b5gVtkmq/24.jpg",
+    "details": "This is a detailed summary of the article titled 'Youth Activism and Climate Change'."
+  },
+  {
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": true
+    },
+    "category": "Youth",
+    "rating": {
+      "number": 3.2,
+      "badge": "Average"
+    },
+    "total_view": 402,
+    "title": "Best Scholarships for Students in 2025",
+    "author": {
+      "name": "Author 28",
+      "published_date": "2024-07-28 09:57:04",
+      "img": "https://i.ibb.co.com/B59TJrxt/user2.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co.com/b5gVtkmq/24.jpg",
+    "image_url": "https://i.ibb.co.com/6qrtM8s/20.jpg",
+    "details": "This is a detailed summary of the article titled 'Best Scholarships for Students in 2025'."
+  }
+]

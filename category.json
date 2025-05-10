@@ -1,0 +1,23 @@
+[
+    {
+        "category": "All-News"
+    },
+    {
+        "category": "Technology"
+    },
+    {
+         "category": "Sports"
+    },
+    {
+         "category": "Business"
+    },
+    {
+          "category": "Entertainment"
+    },
+    {
+          "category": "Life"
+    },
+    {
+          "category": "Youth"
+    }
+]
