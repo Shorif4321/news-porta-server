@@ -1,5 +1,5 @@
 const express = require('express')
-const { MongoClient, ServerApiVersion } = require('mongodb');
+const { MongoClient, ServerApiVersion, ObjectId } = require('mongodb');
 const cors = require('cors')
 require('dotenv').config();
 
@@ -35,11 +35,33 @@ async function run() {
         res.send(news)
     })
 
+    // get single news
+    app.get('/news/:id', async(req,res)=>{
+      const id = req.params.id;
+      const query = {_id: new ObjectId(id) }
+      const news = await newsCollection.findOne(query);
+      res.send(news)
+      
+    })
+
     app.get('/categories',async (req,res)=>{
       const query = {};
       const categories = await categoriesCollection.find(query).toArray();
       res.send(categories)
     })
+
+    // get news base on category
+    app.get('/news', async(req,res)=>{
+      const category = req.query.category;
+      const query = {  category: category }
+      const result = await newsCollection.find(query).toArray();
+      console.log(result);
+      res.send(result)
+    })
+
+    
+
+
 
   } finally {
     // await client.close();

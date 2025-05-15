@@ -4,7 +4,7 @@
       "is_todays_pick": false,
       "is_trending": true
     },
-    "category": "Technology",
+    "category": "technology",
     "rating": {
       "number": 4.3,
       "badge": "Excellent"
@@ -25,7 +25,7 @@
       "is_todays_pick": true,
       "is_trending": false
     },
-    "category": "Technology",
+    "category": "technology",
     "rating": {
       "number": 3.4,
       "badge": "Good"
@@ -46,7 +46,7 @@
       "is_todays_pick": true,
       "is_trending": true
     },
-    "category": "Technology",
+    "category": "technology",
     "rating": {
       "number": 3.1,
       "badge": "Good"
@@ -67,7 +67,7 @@
       "is_todays_pick": true,
       "is_trending": true
     },
-    "category": "Technology",
+    "category": "technology",
     "rating": {
       "number": 3.0,
       "badge": "Average"
@@ -89,7 +89,7 @@
       "is_todays_pick": true,
       "is_trending": false
     },
-    "category": "Sports",
+    "category": "sports",
     "rating": {
       "number": 4.7,
       "badge": "Good"
@@ -110,7 +110,7 @@
       "is_todays_pick": false,
       "is_trending": false
     },
-    "category": "Sports",
+    "category": "sports",
     "rating": {
       "number": 4.1,
       "badge": "Good"
@@ -131,7 +131,7 @@
       "is_todays_pick": true,
       "is_trending": false
     },
-    "category": "Sports",
+    "category": "sports",
     "rating": {
       "number": 3.1,
       "badge": "Good"
@@ -152,7 +152,7 @@
       "is_todays_pick": false,
       "is_trending": true
     },
-    "category": "Sports",
+    "category": "sports",
     "rating": {
       "number": 3.5,
       "badge": "Good"
@@ -173,7 +173,7 @@
       "is_todays_pick": false,
       "is_trending": false
     },
-    "category": "Business",
+    "category": "business",
     "rating": {
       "number": 3.0,
       "badge": "Average"
@@ -194,7 +194,7 @@
       "is_todays_pick": true,
       "is_trending": true
     },
-    "category": "Business",
+    "category": "business",
     "rating": {
       "number": 3.6,
       "badge": "Excellent"
@@ -215,7 +215,7 @@
       "is_todays_pick": true,
       "is_trending": false
     },
-    "category": "Business",
+    "category": "business",
     "rating": {
       "number": 3.9,
       "badge": "Average"
@@ -236,7 +236,7 @@
       "is_todays_pick": false,
       "is_trending": false
     },
-    "category": "Business",
+    "category": "business",
     "rating": {
       "number": 4.3,
       "badge": "Average"
@@ -257,7 +257,7 @@
       "is_todays_pick": true,
       "is_trending": false
     },
-    "category": "Entertainment",
+    "category": "entertainment",
     "rating": {
       "number": 3.9,
       "badge": "Good"
@@ -278,7 +278,7 @@
       "is_todays_pick": true,
       "is_trending": true
     },
-    "category": "Entertainment",
+    "category": "entertainment",
     "rating": {
       "number": 5.0,
       "badge": "Average"
@@ -299,7 +299,7 @@
       "is_todays_pick": true,
       "is_trending": false
     },
-    "category": "Entertainment",
+    "category": "entertainment",
     "rating": {
       "number": 4.0,
       "badge": "Excellent"
@@ -320,7 +320,7 @@
       "is_todays_pick": false,
       "is_trending": false
     },
-    "category": "Entertainment",
+    "category": "entertainment",
     "rating": {
       "number": 3.9,
       "badge": "Average"
@@ -341,7 +341,7 @@
       "is_todays_pick": false,
       "is_trending": false
     },
-    "category": "Life",
+    "category": "life",
     "rating": {
       "number": 3.4,
       "badge": "Average"
@@ -362,7 +362,7 @@
       "is_todays_pick": true,
       "is_trending": false
     },
-    "category": "Life",
+    "category": "life",
     "rating": {
       "number": 3.5,
       "badge": "Excellent"
@@ -383,7 +383,7 @@
       "is_todays_pick": true,
       "is_trending": true
     },
-    "category": "Life",
+    "category": "life",
     "rating": {
       "number": 3.5,
       "badge": "Good"
@@ -404,7 +404,7 @@
       "is_todays_pick": true,
       "is_trending": true
     },
-    "category": "Life",
+    "category": "life",
     "rating": {
       "number": 4.2,
       "badge": "Excellent"
@@ -425,7 +425,7 @@
       "is_todays_pick": false,
       "is_trending": true
     },
-    "category": "Youth",
+    "category": "youth",
     "rating": {
       "number": 4.0,
       "badge": "Good"
@@ -446,7 +446,7 @@
       "is_todays_pick": false,
       "is_trending": false
     },
-    "category": "Youth",
+    "category": "youth",
     "rating": {
       "number": 3.3,
       "badge": "Excellent"
@@ -467,7 +467,7 @@
       "is_todays_pick": false,
       "is_trending": false
     },
-    "category": "Youth",
+    "category": "youth",
     "rating": {
       "number": 3.4,
       "badge": "Good"
@@ -488,7 +488,7 @@
       "is_todays_pick": true,
       "is_trending": true
     },
-    "category": "Youth",
+    "category": "youth",
     "rating": {
       "number": 3.2,
       "badge": "Average"
